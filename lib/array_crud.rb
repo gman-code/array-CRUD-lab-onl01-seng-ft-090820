@@ -7,8 +7,8 @@ array = my_kids=["sal", "ras", "san", "sam"]
   end
 
 def add_element_to_end_of_array(array, element)
-  my_array.push"array", "element" 
- puts my_kids.inspect
+  my_array.push "array", "element" 
+ 
 end
 
 def add_element_to_start_of_array(array, element)
